@@ -9,7 +9,7 @@ sass:
   style: compressed
 
 # Resume settings
-resume_avatar:                  false
+resume_avatar:                  "true"
 resume_name:                    "Craig P. Stringer"
 resume_title:                   "Office Administrator with vast experience in sectors such as banking and recruitment"
 
